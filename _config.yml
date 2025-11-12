@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
 title: Liz Learns 2
 description: Things Liz has learned
+skin: midnight
